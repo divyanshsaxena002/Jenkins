@@ -240,12 +240,12 @@ Feel free to:
 ### Author
 Vidhi Jaju
 
-![image](img/Screenshot%202025-04-25%20150939.png)
 
-![image](img/Screenshot%202025-04-25%20151118.png)
 
-![image](img/Screenshot%202025-04-25%20151825.png)
+![image](https://github.com/divyanshsaxena002/Jenkins/blob/main/img/2.png)
 
-![image](img/Screenshot%202025-04-25%20151900.png)
+![image](https://github.com/divyanshsaxena002/Jenkins/blob/main/img/3.png)
 
-![image](img/Screenshot%202025-04-25%20151908.png)
+
+
+![image](https://github.com/divyanshsaxena002/Jenkins/blob/main/img/Screenshot%202025-04-25%20151908.png)
